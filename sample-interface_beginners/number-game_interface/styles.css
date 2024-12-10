@@ -1,0 +1,69 @@
+/* General Page Styles */
+body {
+  font-family: 'Arial, sans-serif';
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.game-container {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+/* Heading and Instructions */
+h1 {
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+/* Input Field */
+input {
+  padding: 10px;
+  width: 100%;
+  max-width: 200px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Button Styles */
+button {
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Result Message */
+#result-message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+#result-message p {
+  font-weight: bold;
+  color: #ff5733;
+}
