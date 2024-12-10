@@ -249,4 +249,3 @@ header {
    - Integrate **Chart.js** to visualize income vs. expenses.
 
 ---
-
