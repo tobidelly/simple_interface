@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Quiz App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>Fun Quiz! 📝</h1>
+    
+    <form id="quiz-form">
+      <div class="question">
+        <p>1. What is the capital of France?</p>
+        <label><input type="radio" name="q1" value="Paris"> Paris</label>
+        <label><input type="radio" name="q1" value="Rome"> Rome</label>
+        <label><input type="radio" name="q1" value="London"> London</label>
+      </div>
+
+      <div class="question">
+        <p>2. What is 2 + 2?</p>
+        <label><input type="radio" name="q2" value="3"> 3</label>
+        <label><input type="radio" name="q2" value="4"> 4</label>
+        <label><input type="radio" name="q2" value="5"> 5</label>
+      </div>
+
+      <div class="question">
+        <p>3. What color is the sky on a clear day?</p>
+        <label><input type="radio" name="q3" value="Blue"> Blue</label>
+        <label><input type="radio" name="q3" value="Green"> Green</label>
+        <label><input type="radio" name="q3" value="Red"> Red</label>
+      </div>
+
+      <button type="button" id="submit-btn">Submit Answers</button>
+    </form>
+
+    <div id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
