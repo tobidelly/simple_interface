@@ -1,5 +1,6 @@
-# Sample Interface (Beginners)
+# Simple Interfaces
 
-This is a compilation of various interfaces for beginners (HTML & CSS)
+Contains:
 
-_If you're a coding instructor, this could be useful._
+* Sample interface for beginners.
+* Sample interface for intermediate.
