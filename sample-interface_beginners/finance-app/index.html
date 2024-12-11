@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Simple Finance App</title>
+</head>
+<body>
+  <div class="container">
+    <h1>My Finance Tracker</h1>
+    
+    <div class="balance-card">
+      <h2>Current Balance</h2>
+      <p class="balance">$1,500.00</p>
+    </div>
+
+    <div class="transaction-section">
+      <h2>Add Transaction</h2>
+
+      <form>
+        <input type="text" placeholder="Transaction Title" class="input-field" required>
+        <input type="number" placeholder="Amount" class="input-field" required>
+        <div class="button-group">
+          <button type="submit" class="income-btn">Add Income</button>
+          <button type="submit" class="expense-btn">Add Expense</button>
+        </div>
+      </form>
+    </div>
+
+    <div class="history-section">
+      <h2>Transaction History</h2>
+      <ul class="transaction-list">
+        <li class="income">Salary: +$2,000.00</li>
+        <li class="expense">Groceries: -$200.00</li>
+        <li class="expense">Internet Bill: -$50.00</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
