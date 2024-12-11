@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Payment App Interface</title>
+</head>
+<body>
+  <div class="app-container">
+    <!-- Sidebar Navigation -->
+    <nav class="sidebar">
+      <h2 class="logo">PayApp</h2>
+      <ul>
+        <li><a href="#" class="active">Dashboard</a></li>
+        <li><a href="#">Send Money</a></li>
+        <li><a href="#">Transactions</a></li>
+        <li><a href="#">Settings</a></li>
+      </ul>
+    </nav>
+
+    <!-- Main Content Area -->
+    <div class="main-content">
+      <header>
+        <h1>Dashboard</h1>
+        <button class="logout-btn">Logout</button>
+      </header>
+
+      <section class="balance-section">
+        <h2>Your Balance</h2>
+        <div class="balance-card">
+          <p class="balance-amount">$4,250.00</p>
+        </div>
+      </section>
+
+      <section class="payment-section">
+        <h2>Make a Payment</h2>
+        <form class="payment-form">
+          <input type="text" placeholder="Recipient Name" required>
+          <input type="number" placeholder="Amount" required>
+          <button type="submit" class="pay-btn">Send Payment</button>
+        </form>
+      </section>
+
+      <section class="transaction-section">
+        <h2>Recent Transactions</h2>
+        <ul class="transaction-list">
+          <li class="transaction">
+            <span>Grocery Store</span>
+            <span class="expense">- $45.00</span>
+          </li>
+          <li class="transaction">
+            <span>Freelance Payment</span>
+            <span class="income">+ $300.00</span>
+          </li>
+          <li class="transaction">
+            <span>Electricity Bill</span>
+            <span class="expense">- $120.00</span>
+          </li>
+        </ul>
+      </section>
+    </div>
+  </div>
+</body>
+</html>
