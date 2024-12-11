@@ -19,7 +19,7 @@ In this project, you'll create a simple **Login and Signup Interface** using onl
 ## 📂 **File Structure**
 
 ```
-login-signup-interface/
+login_signup/
 │-- index.html      ← The HTML structure
 └-- styles.css      ← The CSS styling
 ```

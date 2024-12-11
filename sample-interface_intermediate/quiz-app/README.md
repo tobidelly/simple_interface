@@ -24,7 +24,7 @@ This project is a **simple interactive quiz application** built with **HTML**, *
 ## 📂 **File Structure**
 
 ```
-interactive-quiz/
+quiz-app/
 │-- index.html      ← The HTML structure
 │-- styles.css      ← The CSS styling
 └-- script.js       ← The JavaScript logic
@@ -134,7 +134,7 @@ document.getElementById('submit-btn').addEventListener('click', function() {
 
 1. **Clone or Download the Project**:
    ```bash
-   git clone https://github.com/yourusername/interactive-quiz.git
+   git clone https://github.com/yourusername/simple_interface.git
    ```
    
 2. **Open `index.html`** in your browser:

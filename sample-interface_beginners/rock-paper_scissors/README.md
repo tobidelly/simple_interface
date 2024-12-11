@@ -18,7 +18,7 @@ In this project, you'll create a simple **Rock, Paper, Scissors** game using **H
 ## 📂 **File Structure**
 
 ```
-rock-paper-scissors/
+rock-paper_scissors/
 │-- index.html    ← The HTML structure
 └-- styles.css    ← The CSS styling
 ```

@@ -5,7 +5,7 @@ Here’s a **beginner-friendly finance app** using **HTML and CSS**. This projec
 ### 📂 **Project Structure**
 
 ```
-simple_finance_app/
+finance-app/
 │-- index.html
 │-- styles.css
 ```

@@ -14,7 +14,7 @@ Let's get started!
 ### 📂 **Project Structure**
 
 ```
-multi_page_website/
+multi-page_website/
 │-- index.html
 │-- about.html
 │-- services.html

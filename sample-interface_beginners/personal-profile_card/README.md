@@ -21,7 +21,7 @@ This project will teach you how to:
 Your project will have two files:
 
 ```
-profile-card/
+personal-profile_card/
 │-- index.html      ← The HTML structure
 └-- styles.css      ← The CSS styling
 ```

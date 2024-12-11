@@ -19,7 +19,7 @@ In this project, you'll create a simple **Guess the Number** game interface usin
 ## 📂 **File Structure**
 
 ```
-guess-the-number-game/
+number-game_interface/
 │-- index.html    ← The HTML structure
 └-- styles.css    ← The CSS styling
 ```

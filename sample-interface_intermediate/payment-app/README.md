@@ -3,7 +3,7 @@
 ### 📂 **Project Structure**
 
 ```
-payment_app_interface/
+payment-app/
 │-- index.html
 │-- styles.css
 │-- images/

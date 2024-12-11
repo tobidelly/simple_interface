@@ -19,7 +19,7 @@ In this project, you will create an interactive **Car Dashboard Monitor** interf
 ## 📂 **File Structure**
 
 ```
-car-dashboard/
+dashboard-monitor/
 │-- index.html    ← The HTML structure
 └-- styles.css    ← The CSS styling
 ```
