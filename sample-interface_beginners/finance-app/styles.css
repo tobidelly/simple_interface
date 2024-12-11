@@ -1,0 +1,103 @@
+/* General Page Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: #444;
+}
+
+/* Balance Card */
+.balance-card {
+  background-color: #dff0d8;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.balance {
+  font-size: 2em;
+  font-weight: bold;
+  color: #2d862d;
+}
+
+/* Transaction Section */
+.transaction-section {
+  margin: 30px 0;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  width: 48%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  color: #fff;
+  cursor: pointer;
+}
+
+.income-btn {
+  background-color: #28a745;
+}
+
+.expense-btn {
+  background-color: #dc3545;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+/* Transaction History */
+.history-section {
+  margin: 30px 0;
+}
+
+.transaction-list {
+  list-style: none;
+  padding: 0;
+}
+
+.transaction-list li {
+  background: #f9f9f9;
+  padding: 10px;
+  margin: 5px 0;
+  border-left: 5px solid #ccc;
+  border-radius: 5px;
+}
+
+.transaction-list .income {
+  border-left-color: #28a745;
+}
+
+.transaction-list .expense {
+  border-left-color: #dc3545;
+}
