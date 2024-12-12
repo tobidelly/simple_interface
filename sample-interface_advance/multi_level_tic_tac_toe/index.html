@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Multi-Level Tic Tac Toe</title>
+</head>
+<body>
+  <div class="game-container">
+    <h1 class="title">Multi-Level Tic Tac Toe</h1>
+
+    <!-- Level Selector -->
+    <div class="level-selector">
+      <label for="level">Select Difficulty Level (1 - 10):</label>
+      <input type="number" id="level" min="1" max="10" value="1">
+    </div>
+
+    <!-- Game Board -->
+    <div class="board" id="board">
+      <div class="cell" data-cell></div>
+      <div class="cell" data-cell></div>
+      <div class="cell" data-cell></div>
+      <div class="cell" data-cell></div>
+      <div class="cell" data-cell></div>
+      <div class="cell" data-cell></div>
+      <div class="cell" data-cell></div>
+      <div class="cell" data-cell></div>
+      <div class="cell" data-cell></div>
+    </div>
+
+    <!-- Game Status -->
+    <p class="status" id="status">Your turn</p>
+
+    <!-- Reset Button -->
+    <button class="reset-btn" id="resetButton">Reset Game</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
