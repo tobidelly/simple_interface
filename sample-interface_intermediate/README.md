@@ -1,0 +1,1 @@
+# Sample Interfaces for Intermediary Classes
