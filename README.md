@@ -21,6 +21,8 @@ Contains:
     * [Quiz App Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/quiz-app)
     * [Recipe Book Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/receipe-book)
     * [Single Player Tic Tac Toe](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/single_player_tic_tac_toe)
+    * [Rock Paper Scissors Game with Javascript](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/rock-paper-scissors)
+    * [Multipage Website](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/multi-page-website)
 
 * [Sample Interface Advance](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_advance)
 
