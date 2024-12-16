@@ -3,6 +3,7 @@
 Contains:
 
 * [Sample Interface for Beginners.](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_beginners)
+
     * [Alarm Clock Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_beginners/alarm-clock)
     * [Login Signup Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_beginners/login_signup)
     * [Finance App Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_beginners/finance-app)
@@ -11,5 +12,17 @@ Contains:
     * [Number Game Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_beginners/number-game_interface)
     * [Personal Profile Card](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_beginners/personal-profile_card)
     * [Rock Paper Scissors Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_beginners/rock-paper_scissors)
+
 * [Sample Interface for Intermediate.](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate)
+
+    * [Dashboard Monitor Interface]
+    * [Payment App Interface]
+    * [Personal Finance Dashboard Interface]
+    * [Quiz App Interface]
+    * [Recipe Book Interface]
+    * [Single Player Tic Tac Toe]
+
 * [Sample Interface Advance](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_advance)
+
+    * [Dice Race Game]
+    * [Multi-level Tic Tac Toe]
