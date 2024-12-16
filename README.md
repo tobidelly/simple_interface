@@ -15,14 +15,14 @@ Contains:
 
 * [Sample Interface for Intermediate.](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate)
 
-    * [Dashboard Monitor Interface]
-    * [Payment App Interface]
-    * [Personal Finance Dashboard Interface]
-    * [Quiz App Interface]
-    * [Recipe Book Interface]
-    * [Single Player Tic Tac Toe]
+    * [Dashboard Monitor Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/dashboard-monitor)
+    * [Payment App Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/payment-app)
+    * [Personal Finance Dashboard Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/Personal-finance)
+    * [Quiz App Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/quiz-app)
+    * [Recipe Book Interface](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/receipe-book)
+    * [Single Player Tic Tac Toe](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_intermediate/single_player_tic_tac_toe)
 
 * [Sample Interface Advance](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_advance)
 
-    * [Dice Race Game]
-    * [Multi-level Tic Tac Toe]
+    * [Dice Race Game](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_advance/dice_race)
+    * [Multi-level Tic Tac Toe](https://github.com/tobidelly/simple_interface/tree/main/sample-interface_advance/multi_level_tic_tac_toe)
