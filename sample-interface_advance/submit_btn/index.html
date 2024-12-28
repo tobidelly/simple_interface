@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>HOME</title>
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+</head>
+<body class="show-chatbot">
+  <!-- Chatbot Toggle Button -->
+  <button class="chatbot-toggler" aria-label="Toggle chatbot">
+    <span class="material-symbols-outlined">mode_comment</span>
+    <span class="material-symbols-outlined">close</span>
+  </button>
+
+  <!-- Chatbot Container -->
+  <div class="chatbot">
+    <!-- Chatbot Header -->
+    <header>
+      <h2>DamiBot</h2>
+      <button class="close-chatbot" aria-label="Close chatbot">
+        <span class="material-symbols-outlined">close</span>
+      </button>
+    </header>
+
+    <!-- Chatbox -->
+    <ul class="chatbox">
+      <li class="chat incoming">
+        <span class="material-symbols-outlined">smart_toy</span>
+        <p>Hi there 🙂 <br> How can I help you today?</p>
+      </li>
+      <li class="chat outgoing">
+        <p>Lorem ipsum dolor sit amet consectetur.</p>
+      </li>
+    </ul>
+
+    <!-- Chat Input -->
+    <div class="chat-input">
+      <textarea id="textarea" placeholder="Enter a message..." required></textarea>
+      <button id="send_Btn" class="send-button" aria-label="Send message">
+        <span class="material-symbols-outlined">send</span>
+      </button>
+    </div>
+  </div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
